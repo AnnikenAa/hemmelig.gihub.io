@@ -357,7 +357,7 @@ footer{
 
 
 /* If the screen size is 600px or less, set the font-size of <div> to 30px */
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 600px) {
   div.content {
     font-size: 30px;
   }
@@ -399,7 +399,7 @@ nav.menu ul li{
     }
     
 #kontaktmeny{
-    padding-right: 4.5%;
+    padding-right: 0%;
     
     }
     
@@ -430,7 +430,7 @@ p{
     }
 }
 
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 600px) {
 div.infografikk img{
     width: 70%;
     padding-left: 30%;
