@@ -363,11 +363,11 @@ footer{
   }
     
 div.card-body p{
-    font-size: 12px;
+    font-size: 2v2;
   }
     
 div.card-body button{
-    font-size: 12px;
+    font-size: 2vw;
   }
     
 div.infografikk img{
@@ -381,7 +381,7 @@ div.infografikk hr{
     }
     
 div.overskrift h6{
-        font-size: 12px;
+        font-size: 2vw;
     }
     
 div.overskrift h5{
@@ -404,7 +404,7 @@ nav.menu ul li{
     }
     
 #okoinfo p{
-    font-size: 2px;
+    font-size: 2vw;
     padding-right: 9.1667%;
     }
 
@@ -418,7 +418,7 @@ div.insta{
     }
 
     footer{
-        font-size: 12px;
+        font-size: 2vw;
     }
     
 h5{
@@ -426,7 +426,7 @@ h5{
     }
     
 p{
-    font-size: 12px;
+    font-size: 2vw;
     }
 }
 
