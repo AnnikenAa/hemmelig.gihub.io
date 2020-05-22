@@ -356,14 +356,14 @@ footer{
 
 
 
-/* If the screen size is 600px or less, set the font-size of <div> to 30px */
-@media only screen and (max-width: 600px) {
+/* If the screen size is 767px or less, set the font-size of <div> to 30px */
+@media only screen and (max-width: 767px) {
   div.content {
-    font-size: 30px;
+    font-size: 4.5vw;
   }
     
 div.card-body p{
-    font-size: 2v2;
+    font-size: 2vw;
   }
     
 div.card-body button{
@@ -385,11 +385,11 @@ div.overskrift h6{
     }
     
 div.overskrift h5{
-        font-size: 30px;
+        font-size: 4.5vw;
     }
     
 nav.menu h4{
-        font-size: 30px;
+        font-size: 6vw;
     }
     
 nav.menu ul li{
@@ -422,7 +422,7 @@ div.insta{
     }
     
 h5{
-    font-size: 25px;
+    font-size: 4.5vw;
     }
     
 p{
@@ -430,7 +430,14 @@ p{
     }
 }
 
-@media only screen and (min-width: 600px) {
+.form-group{
+    font-size: 
+}
+
+  
+    
+
+@media only screen and (min-width: 767px) {
 div.infografikk img{
     width: 70%;
     padding-left: 30%;
@@ -442,5 +449,7 @@ nav.menu ul li{
     font-size: 1.2vw;
     }
 }
+
+
 
 
